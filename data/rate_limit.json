@@ -7206,16 +7206,16 @@
     "next_allowed_at": 1772216065.2670748
   },
   "https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=8827a7d0e22de79b46fd5003b1cc0ca7": {
-    "hits": 9,
+    "hits": 10,
     "last_reason": "http 403",
-    "last_at": 1773178466.6924145,
-    "next_allowed_at": 1773264866.6924145
+    "last_at": 1773280546.9416249,
+    "next_allowed_at": 1773366946.9416249
   },
   "https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=f8fb5683f0cf6f938bccf053c55ead62": {
-    "hits": 9,
+    "hits": 10,
     "last_reason": "http 403",
-    "last_at": 1773178466.6924145,
-    "next_allowed_at": 1773264866.6924145
+    "last_at": 1773280546.9416249,
+    "next_allowed_at": 1773366946.9416249
   },
   "https://2025.youzizizi.top/api/v1/client/subscribe?token=e220eb4434c516f052bd4c7441f80e8f": {
     "hits": 9,
@@ -7224,22 +7224,22 @@
     "next_allowed_at": 1773341678.1542678
   },
   "https://dash.pqjc.site/api/v1/client/subscribe?token=77292e9c08541d38ef7cd0f9450af09b": {
-    "hits": 8,
+    "hits": 9,
     "last_reason": "http 403",
-    "last_at": 1773193913.8855731,
-    "next_allowed_at": 1773280313.8855731
+    "last_at": 1773280546.9416249,
+    "next_allowed_at": 1773366946.9416249
   },
   "https://ncdy.aza7.cn/api/v1/client/subscribe?token=b43598a9cd18170fd1ff8e91813d5928": {
-    "hits": 8,
+    "hits": 9,
     "last_reason": "body-hint",
-    "last_at": 1773193913.8855731,
-    "next_allowed_at": 1773280313.8855731
+    "last_at": 1773280546.9416249,
+    "next_allowed_at": 1773366946.9416249
   },
   "https://vivo.nekoy01.com:10018/api/v1/client/subscribe?token=7e7753d3a911e6f2423fc585a1af976d": {
-    "hits": 8,
+    "hits": 9,
     "last_reason": "http 403",
-    "last_at": 1773193913.8855731,
-    "next_allowed_at": 1773280313.8855731
+    "last_at": 1773280546.9416249,
+    "next_allowed_at": 1773366946.9416249
   },
   "https://dash.djjc.cfd/api/v1/client/subscribe?token=142a6ec1275a6d8b7951070321651532": {
     "hits": 8,
@@ -7284,10 +7284,10 @@
     "next_allowed_at": 1773322427.2539217
   },
   "https://platform.djjc.cfd/api/v1/client/subscribe?token=7b7beb3a13f6aac12987c68d8bc36692": {
-    "hits": 6,
+    "hits": 7,
     "last_reason": "http 403",
-    "last_at": 1773244037.6674747,
-    "next_allowed_at": 1773272837.6674747
+    "last_at": 1773280546.9416249,
+    "next_allowed_at": 1773338146.9416249
   },
   "https://gates.djjc.cfd/api/v1/client/subscribe?token=20e4022da395be900d222fbe6bdb56dc&flag=shadowrocket": {
     "hits": 6,
@@ -7302,39 +7302,39 @@
     "next_allowed_at": 1773272027.2539217
   },
   "https://mcp.dpenly.org/api/v1/client/subscribe?token=23a28ee69cc9b064fb5dcb8ab6d22b0d": {
-    "hits": 3,
+    "hits": 4,
     "last_reason": "http 403",
-    "last_at": 1773264827.2539217,
-    "next_allowed_at": 1773268427.2539217
+    "last_at": 1773280546.9416249,
+    "next_allowed_at": 1773287746.9416249
   },
   "https://mcp.dpenly.org/api/v1/client/subscribe?token=568cd289d2e89cb763c021a193d30869": {
-    "hits": 3,
+    "hits": 4,
     "last_reason": "http 403",
-    "last_at": 1773264827.2539217,
-    "next_allowed_at": 1773268427.2539217
+    "last_at": 1773280546.9416249,
+    "next_allowed_at": 1773287746.9416249
   },
   "https://mcp.dpenly.org/api/v1/client/subscribe?token=9b598d639dcb1618b106e64a873fe55c": {
-    "hits": 3,
+    "hits": 4,
     "last_reason": "http 403",
-    "last_at": 1773264827.2539217,
-    "next_allowed_at": 1773268427.2539217
+    "last_at": 1773280546.9416249,
+    "next_allowed_at": 1773287746.9416249
   },
   "https://mcp.dpenly.org/api/v1/client/subscribe?token=a29ce12fe21a8523c65529ebaa71ba67": {
-    "hits": 3,
+    "hits": 4,
     "last_reason": "http 403",
-    "last_at": 1773264827.2539217,
-    "next_allowed_at": 1773268427.2539217
+    "last_at": 1773280546.9416249,
+    "next_allowed_at": 1773287746.9416249
   },
   "https://s1.byte16.com/api/v1/client/subscribe?token=614c989cedbe2ef941db02a0838541c2": {
-    "hits": 3,
+    "hits": 4,
     "last_reason": "http 403",
-    "last_at": 1773264827.2539217,
-    "next_allowed_at": 1773268427.2539217
+    "last_at": 1773280546.9416249,
+    "next_allowed_at": 1773287746.9416249
   },
   "https://s1.byte16.com/api/v1/client/subscribe?token=c18d894bf6d6d11522f7afe0c7b1aeb9": {
-    "hits": 3,
+    "hits": 4,
     "last_reason": "http 403",
-    "last_at": 1773264827.2539217,
-    "next_allowed_at": 1773268427.2539217
+    "last_at": 1773280546.9416249,
+    "next_allowed_at": 1773287746.9416249
   }
 }
