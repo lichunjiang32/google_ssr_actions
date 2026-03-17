@@ -7422,21 +7422,21 @@
     "next_allowed_at": 1773716496.8832524
   },
   "https://onlysub.mjurl.com/api/v1/client/subscribe?token=0317efa61070761545d7f4c909ffdff5": {
-    "hits": 5,
+    "hits": 6,
     "last_reason": "http 403",
-    "last_at": 1773687696.8832524,
-    "next_allowed_at": 1773702096.8832524
+    "last_at": 1773712699.6941788,
+    "next_allowed_at": 1773741499.6941788
   },
   "https://b6enwo8026sf4k.wca1rs59sefb1kl655b0.online/api/v1/client/subscribe?token=e869f838d683df5fa175483e0d722b72": {
-    "hits": 4,
+    "hits": 5,
     "last_reason": "http 403",
-    "last_at": 1773697235.3209565,
-    "next_allowed_at": 1773704435.3209565
+    "last_at": 1773712699.6941788,
+    "next_allowed_at": 1773727099.6941788
   },
   "https://djjc.cfd/api/v1/client/subscribe?token=01fb9d2fc294a0a85e9ba284e431f9b0": {
-    "hits": 3,
+    "hits": 4,
     "last_reason": "http 403",
-    "last_at": 1773697235.3209565,
-    "next_allowed_at": 1773700835.3209565
+    "last_at": 1773712699.6941788,
+    "next_allowed_at": 1773719899.6941788
   }
 }
