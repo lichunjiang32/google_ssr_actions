@@ -2802,10 +2802,10 @@
     "next_allowed_at": 1774128673.600489
   },
   "https://sub.yifenjichang.online/api/v1/client/subscribe?token=718ad73f97025e3154c91758a6bbc911": {
-    "hits": 15,
+    "hits": 16,
     "last_reason": "body-hint",
-    "last_at": 1773158484.4870818,
-    "next_allowed_at": 1773244884.4870818
+    "last_at": 1774085543.2751162,
+    "next_allowed_at": 1774171943.2751162
   },
   "https://sub.yifenjichang.online/api/v1/client/subscribe?token=71a92de8e9302ea6ecd1b2cf6acd4818": {
     "hits": 26,
