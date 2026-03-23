@@ -3726,10 +3726,10 @@
     "next_allowed_at": 1760670022.231444
   },
   "https://562dd2da-d6a6-49ca-8ec2-f65fbb4b2e2c.xn--l6qx3lcvp58x.com/api/v1/client/subscribe?token=e3cfcced59c60d67198c8e585c785913": {
-    "hits": 3,
+    "hits": 4,
     "last_reason": "http 403",
-    "last_at": 1774271085.947498,
-    "next_allowed_at": 1774274685.947498
+    "last_at": 1774281665.5871565,
+    "next_allowed_at": 1774288865.5871565
   },
   "https://a2.cxk.lol/api/v1/client/subscribe?token=c0d977c3e591ade144daaa7158c9048e": {
     "hits": 107,
@@ -6534,10 +6534,10 @@
     "next_allowed_at": 1774317872.8861682
   },
   "https://scurl.izenny.com/api/v1/client/subscribe?token=712791573bf1e92d661d25675b427161": {
-    "hits": 67,
+    "hits": 68,
     "last_reason": "http 403",
-    "last_at": 1774193215.7162232,
-    "next_allowed_at": 1774279615.7162232
+    "last_at": 1774281665.5871565,
+    "next_allowed_at": 1774368065.5871565
   },
   "https://dy.588511.xyz/api/v1/client/subscribe?token=8c9b3b55a8a5f010f7c943405e984aaa": {
     "hits": 11,
@@ -7422,10 +7422,10 @@
     "next_allowed_at": 1774328659.968648
   },
   "https://onlysub.mjurl.com/api/v1/client/subscribe?token=0317efa61070761545d7f4c909ffdff5": {
-    "hits": 12,
+    "hits": 13,
     "last_reason": "http 403",
-    "last_at": 1774193215.7162232,
-    "next_allowed_at": 1774279615.7162232
+    "last_at": 1774281665.5871565,
+    "next_allowed_at": 1774368065.5871565
   },
   "https://b6enwo8026sf4k.wca1rs59sefb1kl655b0.online/api/v1/client/subscribe?token=e869f838d683df5fa175483e0d722b72": {
     "hits": 12,
@@ -7548,10 +7548,10 @@
     "next_allowed_at": 1774289012.3826325
   },
   "https://suba.f2vip.net/api/v1/client/subscribe?token=fa5edc251d0c8749211dac53aca3b2dd": {
-    "hits": 1,
-    "last_reason": "body-hint",
-    "last_at": 1774193215.7162232,
-    "next_allowed_at": 1774194115.7162232
+    "hits": 2,
+    "last_reason": "http 403",
+    "last_at": 1774281665.5871565,
+    "next_allowed_at": 1774283465.5871565
   },
   "https://your-subscription-link.com/api/v1/client/subscribe?token=xxx": {
     "hits": 6,
@@ -7564,5 +7564,11 @@
     "last_reason": "body-hint",
     "last_at": 1774260212.3826325,
     "next_allowed_at": 1774261112.3826325
+  },
+  "https://sep.bbdmfetch.com/api/v1/client/subscribe?token=c5e103999712643f8136783d0a52d8e2": {
+    "hits": 1,
+    "last_reason": "http 403",
+    "last_at": 1774281665.5871565,
+    "next_allowed_at": 1774282565.5871565
   }
 }
