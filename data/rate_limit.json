@@ -6522,10 +6522,10 @@
     "next_allowed_at": 1774500934.3756711
   },
   "https://d41d8cd98f-1ytapi02.1ytsub.com/api/v1/client/subscribe?token=465fd6e2b5c03cfb242b140f5395a222": {
-    "hits": 66,
+    "hits": 67,
     "last_reason": "body-hint",
-    "last_at": 1774328101.311446,
-    "next_allowed_at": 1774414501.311446
+    "last_at": 1774422156.1596403,
+    "next_allowed_at": 1774508556.1596403
   },
   "https://sub1.smallstrawberry.com/api/v1/client/subscribe?token=1a9d71e3e8d96ce57f6c5645d3762ebf": {
     "hits": 71,
@@ -7590,16 +7590,16 @@
     "next_allowed_at": 1774432925.7924645
   },
   "https://moes.lnaspiring.com/Moe233-Subs/qwbm/api/v1/client/subscribe?token=512c4401bf593371ec14c6fdc3709d52": {
-    "hits": 2,
+    "hits": 3,
     "last_reason": "body-hint",
-    "last_at": 1774414534.3756711,
-    "next_allowed_at": 1774416334.3756711
+    "last_at": 1774422156.1596403,
+    "next_allowed_at": 1774425756.1596403
   },
   "https://moes.lnaspiring.com/Moe233-Subs/qwbm/api/v1/client/subscribe?token=xxx": {
-    "hits": 1,
+    "hits": 2,
     "last_reason": "body-hint",
-    "last_at": 1774414534.3756711,
-    "next_allowed_at": 1774415434.3756711
+    "last_at": 1774422156.1596403,
+    "next_allowed_at": 1774423956.1596403
   },
   "https://user.inno6.xyz/api/v1/client/subscribe?token=2a8adee28deb591b0e25e292cab07906": {
     "hits": 1,
