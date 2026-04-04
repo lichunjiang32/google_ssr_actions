@@ -1428,5 +1428,6 @@
   "https://suba.f2vip.net/api/v1/client/subscribe?token=9299aa5a3b1500f22bd6cfb396d5b5f3": "2026-03-29",
   "https://suba.f2vip.net/api/v1/client/subscribe?token=9f10323936c22442ca476fb578543789": "2026-03-29",
   "https://link.dingyueapi.net/api/v1/client/subscribe?token=9201914e4667c14c671162e9cb02f765": "2026-03-30",
-  "https://example.com/api/v1/client/subscribe?token=abc123": "2026-04-02"
+  "https://example.com/api/v1/client/subscribe?token=abc123": "2026-04-02",
+  "https://c7a91e3b-84d2-4c6f-9b71-2e8d4a6f3c11.com/api/v1/client/subscribe?token=34f15d6bbad4eb5a07098ffb9d5bc15f": "2026-04-04"
 }
