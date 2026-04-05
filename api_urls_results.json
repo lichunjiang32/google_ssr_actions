@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-05T12:54:49.376297",
+  "timestamp": "2026-04-05T18:41:11.738808",
   "query": "\"api/v1/client/subscribe?token=\"",
   "search_type": "batch_regions",
   "regions_summary": "批量搜索 4 个地区: 沙特阿拉伯, 土耳其, 以色列, 印度",
@@ -10,18 +10,9 @@
     "印度 (gl=in, hl=hi, lr=lang_hi|lang_en|lang_zh-CN)"
   ],
   "regions_count": 4,
-  "total_urls": 10,
-  "original_urls": 10,
+  "total_urls": 1,
+  "original_urls": 2,
   "urls": [
-    "https://sovql.xn--fiq63fnvb6zglxgxnhmdz73nrmhul7ax10cca.com/api/v1/client/subscribe?token=902ed448c347d7b3ad38cddcafcf228a",
-    "https://novc.f6net.net/api/v1/client/subscribe?token=67ad39b2cfc81168a697aeb2a3821300",
-    "https://novc.f6net.net/api/v1/client/subscribe?token=7a227fd56a15f5bf688388408e4a6c16",
-    "https://novc.f6net.net/api/v1/client/subscribe?token=a622299cd0f5f9fd8027f5c34d882465",
-    "https://suba.f2vip.net/api/v1/client/subscribe?token=cd154c6f991822fbc34d05dc3fc3b84a",
-    "https://novc.f6net.net/api/v1/client/subscribe?token=01d090eb7236373c08a95f5f689bf411",
-    "https://novc.f6net.net/api/v1/client/subscribe?token=cff1dcd5f0b4d05a6e9db542cc8fc3a8",
-    "https://novc.f6net.net/api/v1/client/subscribe?token=99cb584ebce444815075f222b72e1741",
-    "https://suba.f2vip.net/api/v1/client/subscribe?token=cc833e586787464bcf090be25e2da69f",
-    "https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=e71fa4b4da968cf8481e92dd9b1ea927"
+    "https://sovql.xn--fiq63fnvb6zglxgxnhmdz73nrmhul7ax10cca.com/api/v1/client/subscribe?token=902ed448c347d7b3ad38cddcafcf228a"
   ]
 }
