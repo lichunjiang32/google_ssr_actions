@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-06T02:12:24.851396",
+  "timestamp": "2026-04-06T05:22:30.219035",
   "query": "\"api/v1/client/subscribe?token=\"",
   "search_type": "batch_regions",
   "regions_summary": "批量搜索 4 个地区: 沙特阿拉伯, 土耳其, 以色列, 印度",
@@ -13,6 +13,6 @@
   "total_urls": 1,
   "original_urls": 3,
   "urls": [
-    "https://sovql.xn--fiq63fnvb6zglxgxnhmdz73nrmhul7ax10cca.com/api/v1/client/subscribe?token=902ed448c347d7b3ad38cddcafcf228a"
+    "https://xxx.com/api/v1/client/subscribe?token=xxx"
   ]
 }
