@@ -805,6 +805,7 @@
   "https://pqjc.site/api/v1/client/subscribe?token=243d7bf31ca985f8d496ce078333196a",
   "https://pqjc.site/api/v1/client/subscribe?token=d914ff92ab5c7a2d2bcf11652f514bcc",
   "https://pqjc.site/api/v1/client/subscribe?token=f79982973562058dc448831a9e495c25",
+  "https://provider.example.com/api/v1/client/subscribe?token=xxx",
   "https://proxyinfo.net/api/v1/client/subscribe?token=0ced743c0f42cc62a8826bbc80a82d02",
   "https://proxyinfo.net/api/v1/client/subscribe?token=3fd0819483a550b2f7a1456021e39060",
   "https://proxyinfo.net/api/v1/client/subscribe?token=406b2afca30ac58a861d04747082c3d1",
