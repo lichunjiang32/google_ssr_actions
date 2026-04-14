@@ -2550,10 +2550,10 @@
     "next_allowed_at": 1776163600.4759722
   },
   "https://sfj.sufujia.top/api/v1/client/subscribe?token=548ae53b2f205b8763d11ba2a443b92d": {
-    "hits": 73,
+    "hits": 74,
     "last_reason": "body-hint",
-    "last_at": 1776029737.89743,
-    "next_allowed_at": 1776116137.89743
+    "last_at": 1776133054.283133,
+    "next_allowed_at": 1776219454.283133
   },
   "https://sfj.sufujia.top/api/v1/client/subscribe?token=58a161ff0932cb2e3489eb8499db4ce3": {
     "hits": 74,
