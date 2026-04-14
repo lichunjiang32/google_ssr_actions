@@ -1453,5 +1453,13 @@
   "https://service.example.com/api/v1/client/subscribe?token=abc123xyz": "2026-04-12",
   "https://proxyinfo.net/api/v1/client/subscribe?token=6e3e33eac30afd8a7036067874dc5566": "2026-04-12",
   "https://example.com/api/v1/client/subscribe?token=xxxxx": "2026-04-13",
-  "https://example.com/api/v1/client/subscribe?token=xxx&flag=shadowrocket": "2026-04-14"
+  "https://example.com/api/v1/client/subscribe?token=xxx&flag=shadowrocket": "2026-04-14",
+  "https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=b8ec33354458e35d1275da2f4440a6ce": "2026-04-14",
+  "https://knjc.cfd/api/v1/client/subscribe?token=662722b63d86e8f8835d579281411c59": "2026-04-14",
+  "https://mojie.app/api/v1/client/subscribe?token=7b2524e8b617290404473801cf17aeed": "2026-04-14",
+  "https://msub.mjurl.com/api/v1/client/subscribe?token=ae40ddbf63d458d2cd8108b29767a6d1": "2026-04-14",
+  "https://onlysub.mjurl.com/api/v1/client/subscribe?token=6a845ed6787e4060626e7443e064a041": "2026-04-14",
+  "https://onlysub.mjurl.com/api/v1/client/subscribe?token=8ced979417400f3b53a7f752790a58c1": "2026-04-14",
+  "https://sub.yylxjichangonline.top/api/v1/client/subscribe?token=81b561f557fb4de91cd493c981aaba59": "2026-04-14",
+  "https://ymjc.cfd/api/v1/client/subscribe?token=c993278e5efcf50ae6ba0ae556f2134a": "2026-04-14"
 }
