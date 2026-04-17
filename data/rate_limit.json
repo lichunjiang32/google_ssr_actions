@@ -6816,10 +6816,10 @@
     "next_allowed_at": 1776490149.155452
   },
   "https://sfj.sufujia.top/api/v1/client/subscribe?token=e46d0151e2b5ed9237e0e86160ae8431": {
-    "hits": 76,
+    "hits": 77,
     "last_reason": "body-hint",
-    "last_at": 1776366698.5739484,
-    "next_allowed_at": 1776453098.5739484
+    "last_at": 1776462162.8046615,
+    "next_allowed_at": 1776548562.8046615
   },
   "https://sfj.sufujia.top/api/v1/client/subscribe?token=ff47c7c9748b5e785f439c51c2b9d657": {
     "hits": 76,
@@ -6834,10 +6834,10 @@
     "next_allowed_at": 1776497522.5288687
   },
   "https://osaip.ftcos.click/api/v1/client/subscribe?token=30ffa0f1f58a7482906553af1374f1c7": {
-    "hits": 45,
+    "hits": 46,
     "last_reason": "http 403",
-    "last_at": 1776366698.5739484,
-    "next_allowed_at": 1776453098.5739484
+    "last_at": 1776462162.8046615,
+    "next_allowed_at": 1776548562.8046615
   },
   "https://moes.lnaspiring.com/Moe233-Subs/qwbm/api/v1/client/subscribe?token=e4a48770537e9e47347439adefb34ac9": {
     "hits": 43,
@@ -7968,10 +7968,10 @@
     "next_allowed_at": 1776490149.155452
   },
   "https://your-domain/api/v1/client/subscribe?token=xxx": {
-    "hits": 8,
+    "hits": 9,
     "last_reason": "body-hint",
-    "last_at": 1776366698.5739484,
-    "next_allowed_at": 1776453098.5739484
+    "last_at": 1776462162.8046615,
+    "next_allowed_at": 1776548562.8046615
   },
   "https://sovql.xn--fiq63fnvb6zglxgxnhmdz73nrmhul7ax10cca.com/api/v1/client/subscribe?token=902ed448c347d7b3ad38cddcafcf228a": {
     "hits": 7,
@@ -7998,9 +7998,9 @@
     "next_allowed_at": 1776376768.195166
   },
   "https://nano.nachoneko.cn/api/v1/client/subscribe?token=fa8dacc1b00958ec792a89ce74b6cbcb": {
-    "hits": 3,
+    "hits": 4,
     "last_reason": "http 403",
-    "last_at": 1776452411.0113764,
-    "next_allowed_at": 1776456011.0113764
+    "last_at": 1776462162.8046615,
+    "next_allowed_at": 1776469362.8046615
   }
 }
