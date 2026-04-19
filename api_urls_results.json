@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-17T10:13:18.268088",
+  "timestamp": "2026-04-19T12:57:00.000404",
   "query": "\"api/v1/client/subscribe?token=\"",
   "search_type": "batch_regions",
   "regions_summary": "批量搜索 4 个地区: 沙特阿拉伯, 土耳其, 以色列, 印度",
@@ -11,8 +11,8 @@
   ],
   "regions_count": 4,
   "total_urls": 1,
-  "original_urls": 4,
+  "original_urls": 2,
   "urls": [
-    "https://sub3.smallstrawberry.com/api/v1/client/subscribe?token=1f7d1a413c0d66084515a82dbc48cd81"
+    "https://your-airport.com/api/v1/client/subscribe?token=xxx"
   ]
 }
