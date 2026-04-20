@@ -2562,10 +2562,10 @@
     "next_allowed_at": 1776689958.127475
   },
   "https://sfj.sufujia.top/api/v1/client/subscribe?token=5b40747e58250f85e9908d7ebdee3a20": {
-    "hits": 79,
+    "hits": 80,
     "last_reason": "body-hint",
-    "last_at": 1776592029.713742,
-    "next_allowed_at": 1776678429.713742
+    "last_at": 1776682130.3678942,
+    "next_allowed_at": 1776768530.3678942
   },
   "https://sfj.sufujia.top/api/v1/client/subscribe?token=5ec0c3d517257129ba6b13f77b41e029": {
     "hits": 80,
@@ -2622,10 +2622,10 @@
     "next_allowed_at": 1776738624.336947
   },
   "https://sfj.sufujia.top/api/v1/client/subscribe?token=962bc311284648e5114ab93b3d8ef7c7": {
-    "hits": 79,
+    "hits": 80,
     "last_reason": "body-hint",
-    "last_at": 1776583124.512838,
-    "next_allowed_at": 1776669524.512838
+    "last_at": 1776682130.3678942,
+    "next_allowed_at": 1776768530.3678942
   },
   "https://sfj.sufujia.top/api/v1/client/subscribe?token=9fb782211b34eed94e5442d30e63f8e8": {
     "hits": 79,
@@ -6810,10 +6810,10 @@
     "next_allowed_at": 1776689958.127475
   },
   "https://sfj.sufujia.top/api/v1/client/subscribe?token=b250dfdf6adc4269a2720d132ebaebd7": {
-    "hits": 78,
+    "hits": 79,
     "last_reason": "body-hint",
-    "last_at": 1776592029.713742,
-    "next_allowed_at": 1776678429.713742
+    "last_at": 1776682130.3678942,
+    "next_allowed_at": 1776768530.3678942
   },
   "https://sfj.sufujia.top/api/v1/client/subscribe?token=e46d0151e2b5ed9237e0e86160ae8431": {
     "hits": 79,
@@ -7188,10 +7188,10 @@
     "next_allowed_at": 1776689958.127475
   },
   "https://ldld.whtjdasha.com/api/v1/client/subscribe?token=6b69e6bc9bc793ea90db235e89a649d5": {
-    "hits": 44,
+    "hits": 45,
     "last_reason": "http 403",
-    "last_at": 1776356657.876272,
-    "next_allowed_at": 1776443057.876272
+    "last_at": 1776682130.3678942,
+    "next_allowed_at": 1776768530.3678942
   },
   "https://zhuzhuzhu.whtjdasha.com/api/v1/client/subscribe?token=493b544df59832a5716a27bf5e9da216": {
     "hits": 1,
@@ -7998,10 +7998,10 @@
     "next_allowed_at": 1776376768.195166
   },
   "https://nano.nachoneko.cn/api/v1/client/subscribe?token=fa8dacc1b00958ec792a89ce74b6cbcb": {
-    "hits": 8,
+    "hits": 9,
     "last_reason": "http 403",
-    "last_at": 1776592029.713742,
-    "next_allowed_at": 1776678429.713742
+    "last_at": 1776682130.3678942,
+    "next_allowed_at": 1776768530.3678942
   },
   "https://proxyinfo.net/api/v1/client/subscribe?token=6e3e33eac30afd8a7036067874dc5566": {
     "hits": 6,
