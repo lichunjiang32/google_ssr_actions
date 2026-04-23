@@ -5796,10 +5796,10 @@
     "next_allowed_at": 1765936365.4807918
   },
   "http://your-service.com/api/v1/client/subscribe?token=xxxxxx": {
-    "hits": 7,
+    "hits": 8,
     "last_reason": "http 403",
-    "last_at": 1776911338.4766226,
-    "next_allowed_at": 1776968938.4766226
+    "last_at": 1776971259.3149505,
+    "next_allowed_at": 1777057659.3149505
   },
   "https://9yddd.whtjdasha.com/api/v1/client/subscribe?token=84487699ab097c119ecfc7f45d36080c": {
     "hits": 7,
@@ -8044,5 +8044,11 @@
     "last_reason": "http 403",
     "last_at": 1776961844.6705346,
     "next_allowed_at": 1776990644.6705346
+  },
+  "https://sub1.smallstrawberry.com/api/v1/client/subscribe?token=02150886ea5061434ca377c3edd54cfe": {
+    "hits": 1,
+    "last_reason": "http 403",
+    "last_at": 1776971259.3149505,
+    "next_allowed_at": 1776972159.3149505
   }
 }
