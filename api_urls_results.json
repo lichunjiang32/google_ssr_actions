@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-02T15:43:54.335373",
+  "timestamp": "2026-05-02T18:56:22.264134",
   "query": "\"api/v1/client/subscribe?token=\"",
   "search_type": "batch_regions",
   "regions_summary": "批量搜索 4 个地区: 沙特阿拉伯, 土耳其, 以色列, 印度",
@@ -10,12 +10,9 @@
     "印度 (gl=in, hl=hi, lr=lang_hi|lang_en|lang_zh-CN)"
   ],
   "regions_count": 4,
-  "total_urls": 4,
-  "original_urls": 9,
+  "total_urls": 1,
+  "original_urls": 4,
   "urls": [
-    "https://mojie.app/api/v1/client/subscribe?token=550c473c2748b330ed5bf756875c4614",
-    "https://go.xfxssr.me/api/v1/client/subscribe?token=6f98e8cddae6f76ade19f5a54f6000cc",
-    "http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=b6e4d915aba333b26c1791cf7e488d77",
-    "https://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=f83c76fd1de3f536d9b75b320f03cbce"
+    "https://mojie.app/api/v1/client/subscribe?token=550c473c2748b330ed5bf756875c4614"
   ]
 }
