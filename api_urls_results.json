@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-02T18:56:22.264134",
+  "timestamp": "2026-05-03T13:04:33.980910",
   "query": "\"api/v1/client/subscribe?token=\"",
   "search_type": "batch_regions",
   "regions_summary": "批量搜索 4 个地区: 沙特阿拉伯, 土耳其, 以色列, 印度",
@@ -11,8 +11,8 @@
   ],
   "regions_count": 4,
   "total_urls": 1,
-  "original_urls": 4,
+  "original_urls": 1,
   "urls": [
-    "https://mojie.app/api/v1/client/subscribe?token=550c473c2748b330ed5bf756875c4614"
+    "https://crushs.top/api/v1/client/subscribe?token=2fdc83b7d87c795664479e9ccd91981a"
   ]
 }
