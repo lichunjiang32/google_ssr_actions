@@ -1713,10 +1713,10 @@
   },
   {
     "date": "2026-05-03",
-    "google_added": 82,
+    "google_added": 80,
     "github_added": 2,
     "new_total": 1,
-    "removed_total": 0,
-    "alive_total": 84
+    "removed_total": 3,
+    "alive_total": 82
   }
 ]
