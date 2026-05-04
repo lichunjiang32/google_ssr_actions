@@ -1726,5 +1726,13 @@
     "new_total": 4,
     "removed_total": 1,
     "alive_total": 82
+  },
+  {
+    "date": "2026-05-05",
+    "google_added": 76,
+    "github_added": 2,
+    "new_total": 1,
+    "removed_total": 5,
+    "alive_total": 78
   }
 ]
