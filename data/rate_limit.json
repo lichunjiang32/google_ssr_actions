@@ -8304,15 +8304,15 @@
     "next_allowed_at": 1778034850.6712
   },
   "https://x1.332244.icu/api/v1/client/subscribe?token=2d21463dd947d1de2310b349228a0499&flag=meta": {
-    "hits": 4,
+    "hits": 5,
     "last_reason": "body-hint",
-    "last_at": 1777948450.6712,
-    "next_allowed_at": 1777955650.6712
+    "last_at": 1777959838.7614093,
+    "next_allowed_at": 1777974238.7614093
   },
   "https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=e1fc": {
-    "hits": 1,
+    "hits": 2,
     "last_reason": "http 403",
-    "last_at": 1777948450.6712,
-    "next_allowed_at": 1777949350.6712
+    "last_at": 1777959838.7614093,
+    "next_allowed_at": 1777961638.7614093
   }
 }
