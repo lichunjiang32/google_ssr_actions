@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-06T16:26:25.973157",
+  "timestamp": "2026-05-06T19:43:52.570098",
   "query": "\"api/v1/client/subscribe?token=\"",
   "search_type": "batch_regions",
   "regions_summary": "批量搜索 4 个地区: 沙特阿拉伯, 土耳其, 以色列, 印度",
@@ -10,10 +10,11 @@
     "印度 (gl=in, hl=hi, lr=lang_hi|lang_en|lang_zh-CN)"
   ],
   "regions_count": 4,
-  "total_urls": 2,
-  "original_urls": 8,
+  "total_urls": 3,
+  "original_urls": 9,
   "urls": [
     "https://novc.f6net.net/api/v1/client/subscribe?token=7a227fd56a15f5bf688388408e4a6c16",
-    "https://www.djjc.cfd/api/v1/client/subscribe?token=a658316a4a7afeb40f009f3a1f571d67"
+    "https://www.djjc.cfd/api/v1/client/subscribe?token=a658316a4a7afeb40f009f3a1f571d67",
+    "https://4gsieuviet.com/api/v1/client/subscribe?token=0cde9db58f9d4ee3b7e8"
   ]
 }
