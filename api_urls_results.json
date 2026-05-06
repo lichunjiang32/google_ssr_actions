@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-06T19:43:52.570098",
+  "timestamp": "2026-05-06T21:56:14.816945",
   "query": "\"api/v1/client/subscribe?token=\"",
   "search_type": "batch_regions",
   "regions_summary": "批量搜索 4 个地区: 沙特阿拉伯, 土耳其, 以色列, 印度",
@@ -10,11 +10,18 @@
     "印度 (gl=in, hl=hi, lr=lang_hi|lang_en|lang_zh-CN)"
   ],
   "regions_count": 4,
-  "total_urls": 3,
-  "original_urls": 9,
+  "total_urls": 10,
+  "original_urls": 13,
   "urls": [
-    "https://novc.f6net.net/api/v1/client/subscribe?token=7a227fd56a15f5bf688388408e4a6c16",
     "https://www.djjc.cfd/api/v1/client/subscribe?token=a658316a4a7afeb40f009f3a1f571d67",
-    "https://4gsieuviet.com/api/v1/client/subscribe?token=0cde9db58f9d4ee3b7e8"
+    "https://sudaji.eepzau.org/api/v1/client/subscribe?token=8aa087f6dcc38b4b509c3bcec85b69ed",
+    "https://suba.f2vip.net/api/v1/client/subscribe?token=236ea8f16f511b803abf6d368ae6114f",
+    "https://www9.9th-subscription-from-chickenfarmer.top/api/v1/client/subscribe?token=d761cf14344d6ddd20663ef8c971b798",
+    "https://suba.f2vip.net/api/v1/client/subscribe?token=44fbac7f5791ba912cd46d73b5a6546d",
+    "https://suba.f2vip.net/api/v1/client/subscribe?token=3e340bc2a054854937ebc8049df60906",
+    "https://suba.f2vip.net/api/v1/client/subscribe?token=6e621af4abee16e1ca8685fedf0306f4",
+    "https://link123.52pokemon99.cc/api/v1/client/subscribe?token=88c4057eb1896d5b1457ce7b906a640d",
+    "https://novc.f6net.net/api/v1/client/subscribe?token=99cb584ebce444815075f222b72e1741",
+    "https://suba.f2vip.net/api/v1/client/subscribe?token=f6317f324e581abdd5f46e5f619c44c1"
   ]
 }
