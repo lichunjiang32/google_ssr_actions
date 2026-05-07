@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-07T06:08:41.678546",
+  "timestamp": "2026-05-07T11:09:18.287865",
   "query": "\"api/v1/client/subscribe?token=\"",
   "search_type": "batch_regions",
   "regions_summary": "批量搜索 4 个地区: 沙特阿拉伯, 土耳其, 以色列, 印度",
@@ -11,9 +11,9 @@
   ],
   "regions_count": 4,
   "total_urls": 2,
-  "original_urls": 6,
+  "original_urls": 7,
   "urls": [
     "https://sudaji.eepzau.org/api/v1/client/subscribe?token=8aa087f6dcc38b4b509c3bcec85b69ed",
-    "https://your_subconverter/api/v1/client/subscribe?token=xxx&url=encodeURIComponent"
+    "https://your_subconverter/api/v1/client/subscribe?token=xxx"
   ]
 }
