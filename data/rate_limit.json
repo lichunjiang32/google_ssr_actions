@@ -1404,10 +1404,10 @@
     "next_allowed_at": 1778162776.7825055
   },
   "https://s.gwzxwk.com/api/v1/client/subscribe?token=f7577a5ef586b00d0774112a337c2d1e": {
-    "hits": 72,
+    "hits": 73,
     "last_reason": "http 403",
-    "last_at": 1778065645.6427238,
-    "next_allowed_at": 1778152045.6427238
+    "last_at": 1778162647.6332364,
+    "next_allowed_at": 1778249047.6332364
   },
   "https://riolu.azure-api.net/api/v1/client/subscribe?token=4881d2ce996e6494d53a0d9598557352": {
     "hits": 196,
@@ -6576,10 +6576,10 @@
     "next_allowed_at": 1778162776.7825055
   },
   "https://su.gwzxwk.com/api/v1/client/subscribe?token=beb83b46a24b24976fb5382f3fab7157": {
-    "hits": 72,
+    "hits": 73,
     "last_reason": "http 403",
-    "last_at": 1778065645.6427238,
-    "next_allowed_at": 1778152045.6427238
+    "last_at": 1778162647.6332364,
+    "next_allowed_at": 1778249047.6332364
   },
   "https://www.yuntt.sbs/api/v1/client/subscribe?token=223aa5d1dd79d32ec8aa1b1d25a9f0e4": {
     "hits": 109,
@@ -7716,10 +7716,10 @@
     "next_allowed_at": 1778183187.5267851
   },
   "https://su.gwzxwk.com/api/v1/client/subscribe?token=c2c077c5c497219a9564844bbd6395a3": {
-    "hits": 33,
+    "hits": 34,
     "last_reason": "http 403",
-    "last_at": 1778065645.6427238,
-    "next_allowed_at": 1778152045.6427238
+    "last_at": 1778162647.6332364,
+    "next_allowed_at": 1778249047.6332364
   },
   "https://jkcloud.icu/api/v1/client/subscribe?token=0dc73c2e48565643dd7f35d53f401ba5": {
     "hits": 44,
@@ -8184,10 +8184,10 @@
     "next_allowed_at": 1778183187.5267851
   },
   "https://link123.52pokemon99.cc/api/v1/client/subscribe?token=7d27ee9fc0dee9b0d537997e991f877d": {
-    "hits": 7,
+    "hits": 8,
     "last_reason": "http 403",
-    "last_at": 1778065645.6427238,
-    "next_allowed_at": 1778123245.6427238
+    "last_at": 1778162647.6332364,
+    "next_allowed_at": 1778249047.6332364
   },
   "https://msub.mjurl.com/api/v1/client/subscribe?token=ae40ddbf63d458d2cd8108b29767a6d1": {
     "hits": 2,
@@ -8376,39 +8376,45 @@
     "next_allowed_at": 1778166710.4003239
   },
   "https://suba.f2vip.net/api/v1/client/subscribe?token=236ea8f16f511b803abf6d368ae6114f": {
-    "hits": 4,
+    "hits": 5,
     "last_reason": "http 403",
-    "last_at": 1778152310.4003239,
-    "next_allowed_at": 1778159510.4003239
+    "last_at": 1778162647.6332364,
+    "next_allowed_at": 1778177047.6332364
   },
   "https://suba.f2vip.net/api/v1/client/subscribe?token=3e340bc2a054854937ebc8049df60906": {
-    "hits": 4,
+    "hits": 5,
     "last_reason": "http 403",
-    "last_at": 1778152310.4003239,
-    "next_allowed_at": 1778159510.4003239
+    "last_at": 1778162647.6332364,
+    "next_allowed_at": 1778177047.6332364
   },
   "https://suba.f2vip.net/api/v1/client/subscribe?token=44fbac7f5791ba912cd46d73b5a6546d": {
-    "hits": 4,
+    "hits": 5,
     "last_reason": "http 403",
-    "last_at": 1778152310.4003239,
-    "next_allowed_at": 1778159510.4003239
+    "last_at": 1778162647.6332364,
+    "next_allowed_at": 1778177047.6332364
   },
   "https://suba.f2vip.net/api/v1/client/subscribe?token=6e621af4abee16e1ca8685fedf0306f4": {
-    "hits": 4,
+    "hits": 5,
     "last_reason": "http 403",
-    "last_at": 1778152310.4003239,
-    "next_allowed_at": 1778159510.4003239
+    "last_at": 1778162647.6332364,
+    "next_allowed_at": 1778177047.6332364
   },
   "https://suba.f2vip.net/api/v1/client/subscribe?token=f6317f324e581abdd5f46e5f619c44c1": {
-    "hits": 4,
+    "hits": 5,
     "last_reason": "http 403",
-    "last_at": 1778152310.4003239,
-    "next_allowed_at": 1778159510.4003239
+    "last_at": 1778162647.6332364,
+    "next_allowed_at": 1778177047.6332364
   },
   "https://your_subconverter/api/v1/client/subscribe?token=xxx": {
-    "hits": 3,
+    "hits": 4,
     "last_reason": "body-hint",
-    "last_at": 1778152310.4003239,
-    "next_allowed_at": 1778155910.4003239
+    "last_at": 1778162647.6332364,
+    "next_allowed_at": 1778169847.6332364
+  },
+  "https://link123.52pokemon99.cc/api/v1/client/subscribe?token=88c4057eb1896d5b1457ce7b906a640d": {
+    "hits": 1,
+    "last_reason": "http 403",
+    "last_at": 1778162647.6332364,
+    "next_allowed_at": 1778163547.6332364
   }
 }
