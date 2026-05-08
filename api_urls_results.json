@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-07T21:55:58.245974",
+  "timestamp": "2026-05-08T02:43:55.900936",
   "query": "\"api/v1/client/subscribe?token=\"",
   "search_type": "batch_regions",
   "regions_summary": "批量搜索 4 个地区: 沙特阿拉伯, 土耳其, 以色列, 印度",
@@ -10,19 +10,9 @@
     "印度 (gl=in, hl=hi, lr=lang_hi|lang_en|lang_zh-CN)"
   ],
   "regions_count": 4,
-  "total_urls": 11,
-  "original_urls": 14,
+  "total_urls": 1,
+  "original_urls": 4,
   "urls": [
-    "https://139.196.241.76:18181/api/v1/client/subscribe?token=fbc9d4276df2dc1150e7e35f31565373",
-    "https://mojie.app/api/v1/client/subscribe?token=e40ab7a05579e112c4e3a7910724e82c",
-    "https://onlysub.mjurl.com/api/v1/client/subscribe?token=60b3ce987e0dd7144703c6b8b6dd9553",
-    "https://s1.byte33.com/api/v1/client/subscribe?token=daf4ab8b7e6c9ea472ea787a72b2f18d",
-    "https://onlysub.mjurl.com/api/v1/client/subscribe?token=37926220076977bbe6026083baea7661",
-    "https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168",
-    "https://mojie.app/api/v1/client/subscribe?token=dd35aa2c21928281ba77565fa76f928e",
-    "https://onlysub.mjurl.com/api/v1/client/subscribe?token=1da6538770cb2bde323d95c919a505ca",
-    "https://knjc.cfd/api/v1/client/subscribe?token=662722b63d86e8f8835d579281411c59",
-    "https://onlysub.mjurl.com/api/v1/client/subscribe?token=e960f34012590c8fd184e9277c112403",
-    "https://mojie.app/api/v1/client/subscribe?token=e74339f9db32da89c060c6ac6c0ff2a8"
+    "https://139.196.241.76:18181/api/v1/client/subscribe?token=fbc9d4276df2dc1150e7e35f31565373"
   ]
 }
