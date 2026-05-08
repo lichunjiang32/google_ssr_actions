@@ -450,10 +450,10 @@
     "next_allowed_at": 1778259054.0049636
   },
   "https://qingcha.win/api/v1/client/subscribe?token=89e22b9e9b39a570ffe5caa44398c3d8": {
-    "hits": 196,
+    "hits": 197,
     "last_reason": "http 403",
-    "last_at": 1778134267.336499,
-    "next_allowed_at": 1778220667.336499
+    "last_at": 1778225386.9859052,
+    "next_allowed_at": 1778311786.9859052
   },
   "https://qingcha.win/api/v1/client/subscribe?token=c35d37388aaf8d58e7bd94757ae782dd": {
     "hits": 205,
@@ -8406,33 +8406,33 @@
     "next_allowed_at": 1778275902.0235734
   },
   "https://your_subconverter/api/v1/client/subscribe?token=xxx": {
-    "hits": 6,
+    "hits": 7,
     "last_reason": "body-hint",
-    "last_at": 1778191102.5102878,
-    "next_allowed_at": 1778219902.5102878
+    "last_at": 1778225386.9859052,
+    "next_allowed_at": 1778282986.9859052
   },
   "https://link123.52pokemon99.cc/api/v1/client/subscribe?token=88c4057eb1896d5b1457ce7b906a640d": {
-    "hits": 3,
+    "hits": 4,
     "last_reason": "http 403",
-    "last_at": 1778208389.3995264,
-    "next_allowed_at": 1778211989.3995264
+    "last_at": 1778225386.9859052,
+    "next_allowed_at": 1778232586.9859052
   },
   "https://mojie.app/api/v1/client/subscribe?token=dd35aa2c21928281ba77565fa76f928e": {
-    "hits": 3,
+    "hits": 4,
     "last_reason": "http 403",
-    "last_at": 1778218302.0235734,
-    "next_allowed_at": 1778221902.0235734
+    "last_at": 1778225386.9859052,
+    "next_allowed_at": 1778232586.9859052
   },
   "https://mojie.app/api/v1/client/subscribe?token=e40ab7a05579e112c4e3a7910724e82c": {
-    "hits": 3,
+    "hits": 4,
     "last_reason": "http 403",
-    "last_at": 1778218302.0235734,
-    "next_allowed_at": 1778221902.0235734
+    "last_at": 1778225386.9859052,
+    "next_allowed_at": 1778232586.9859052
   },
   "https://s1.byte33.com/api/v1/client/subscribe?token=daf4ab8b7e6c9ea472ea787a72b2f18d": {
-    "hits": 3,
+    "hits": 4,
     "last_reason": "http 403",
-    "last_at": 1778218302.0235734,
-    "next_allowed_at": 1778221902.0235734
+    "last_at": 1778225386.9859052,
+    "next_allowed_at": 1778232586.9859052
   }
 }
