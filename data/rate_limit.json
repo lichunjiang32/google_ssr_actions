@@ -450,10 +450,10 @@
     "next_allowed_at": 1778354398.5532196
   },
   "https://qingcha.win/api/v1/client/subscribe?token=89e22b9e9b39a570ffe5caa44398c3d8": {
-    "hits": 197,
+    "hits": 198,
     "last_reason": "http 403",
-    "last_at": 1778225386.9859052,
-    "next_allowed_at": 1778311786.9859052
+    "last_at": 1778313365.3563068,
+    "next_allowed_at": 1778399765.3563068
   },
   "https://qingcha.win/api/v1/client/subscribe?token=c35d37388aaf8d58e7bd94757ae782dd": {
     "hits": 206,
@@ -8412,10 +8412,10 @@
     "next_allowed_at": 1778380817.5025694
   },
   "https://link123.52pokemon99.cc/api/v1/client/subscribe?token=88c4057eb1896d5b1457ce7b906a640d": {
-    "hits": 6,
+    "hits": 7,
     "last_reason": "http 403",
-    "last_at": 1778267998.5532196,
-    "next_allowed_at": 1778296798.5532196
+    "last_at": 1778313365.3563068,
+    "next_allowed_at": 1778370965.3563068
   },
   "https://mojie.app/api/v1/client/subscribe?token=dd35aa2c21928281ba77565fa76f928e": {
     "hits": 7,
@@ -8436,9 +8436,9 @@
     "next_allowed_at": 1778352017.5025694
   },
   "https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=8f319235434518241057e04030ebe802": {
-    "hits": 2,
+    "hits": 3,
     "last_reason": "http 403",
-    "last_at": 1778305797.9297605,
-    "next_allowed_at": 1778307597.9297605
+    "last_at": 1778313365.3563068,
+    "next_allowed_at": 1778316965.3563068
   }
 }
