@@ -8436,9 +8436,9 @@
     "next_allowed_at": 1778352017.5025694
   },
   "https://sub2.smallstrawberry.com/api/v1/client/subscribe?token=8f319235434518241057e04030ebe802": {
-    "hits": 4,
+    "hits": 5,
     "last_reason": "http 403",
-    "last_at": 1778321222.7389433,
-    "next_allowed_at": 1778328422.7389433
+    "last_at": 1778332492.331493,
+    "next_allowed_at": 1778346892.331493
   }
 }
