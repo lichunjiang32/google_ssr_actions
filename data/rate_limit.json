@@ -522,10 +522,10 @@
     "next_allowed_at": 1778710376.9425356
   },
   "https://qufanfan.info/api/v1/client/subscribe?token=00d1eff0820cffa7b904f3ed0dcee8d9": {
-    "hits": 151,
+    "hits": 152,
     "last_reason": "http 403",
-    "last_at": 1778537271.068628,
-    "next_allowed_at": 1778623671.068628
+    "last_at": 1778640749.7583852,
+    "next_allowed_at": 1778727149.7583852
   },
   "https://www.djjc.cfd/api/v1/client/subscribe?token=eb6fb117e1c1cbe8041e0e0a00935b85": {
     "hits": 213,
@@ -4704,10 +4704,10 @@
     "next_allowed_at": 1778710376.9425356
   },
   "https://xsus.moe/api/v1/client/subscribe?token=4c1f8f412cd5e46a7fa883ef9f08a04c": {
-    "hits": 134,
+    "hits": 135,
     "last_reason": "http 403",
-    "last_at": 1778537271.068628,
-    "next_allowed_at": 1778623671.068628
+    "last_at": 1778640749.7583852,
+    "next_allowed_at": 1778727149.7583852
   },
   "https://pub04.20251020a.top/api/v1/client/subscribe?token=16c299297bca84972869464564f5cc9d": {
     "hits": 149,
@@ -5010,10 +5010,10 @@
     "next_allowed_at": 1778710376.9425356
   },
   "https://39xwg.tdwj.net:108/api/v1/client/subscribe?token=641a628fa2a7742b6a7ed": {
-    "hits": 171,
+    "hits": 172,
     "last_reason": "http 403",
-    "last_at": 1778537271.068628,
-    "next_allowed_at": 1778623671.068628
+    "last_at": 1778640749.7583852,
+    "next_allowed_at": 1778727149.7583852
   },
   "https://ylccloud.top/api/v1/client/subscribe?token=2152c3886b66b2872517fc01509e8260": {
     "hits": 171,
@@ -7926,10 +7926,10 @@
     "next_allowed_at": 1778671380.128484
   },
   "https://novc.f6net.net/api/v1/client/subscribe?token=01d090eb7236373c08a95f5f689bf411": {
-    "hits": 38,
+    "hits": 39,
     "last_reason": "http 403",
-    "last_at": 1778554003.3051832,
-    "next_allowed_at": 1778640403.3051832
+    "last_at": 1778640749.7583852,
+    "next_allowed_at": 1778727149.7583852
   },
   "https://provider.example.com/api/v1/client/subscribe?token=xxx": {
     "hits": 37,
@@ -8370,10 +8370,10 @@
     "next_allowed_at": 1778671380.128484
   },
   "https://4gsieuviet.com/api/v1/client/subscribe?token=0cde9db58f9d4ee3b7e8": {
-    "hits": 11,
+    "hits": 12,
     "last_reason": "http 403",
-    "last_at": 1778554003.3051832,
-    "next_allowed_at": 1778640403.3051832
+    "last_at": 1778640749.7583852,
+    "next_allowed_at": 1778727149.7583852
   },
   "https://suba.f2vip.net/api/v1/client/subscribe?token=236ea8f16f511b803abf6d368ae6114f": {
     "hits": 11,
@@ -8508,9 +8508,9 @@
     "next_allowed_at": 1778672941.2334473
   },
   "https://xxx/api/v1/client/subscribe?token=xxx": {
-    "hits": 5,
+    "hits": 6,
     "last_reason": "body-hint",
-    "last_at": 1778615341.2334473,
-    "next_allowed_at": 1778629741.2334473
+    "last_at": 1778640749.7583852,
+    "next_allowed_at": 1778669549.7583852
   }
 }
