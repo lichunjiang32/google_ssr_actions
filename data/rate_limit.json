@@ -8508,10 +8508,10 @@
     "next_allowed_at": 1778769005.5126143
   },
   "https://xxx/api/v1/client/subscribe?token=xxx": {
-    "hits": 7,
+    "hits": 8,
     "last_reason": "body-hint",
-    "last_at": 1778671937.2664618,
-    "next_allowed_at": 1778729537.2664618
+    "last_at": 1778739966.6098495,
+    "next_allowed_at": 1778826366.6098495
   },
   "https://139.196.241.76:18181/api/v1/client/subscribe?token=0384537a3df189b0c39c4f562c4212b0": {
     "hits": 6,
