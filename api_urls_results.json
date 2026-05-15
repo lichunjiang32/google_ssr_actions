@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-15T14:01:26.464823",
+  "timestamp": "2026-05-15T16:49:56.595057",
   "query": "\"api/v1/client/subscribe?token=\"",
   "search_type": "batch_regions",
   "regions_summary": "批量搜索 4 个地区: 沙特阿拉伯, 土耳其, 以色列, 印度",
@@ -10,15 +10,9 @@
     "印度 (gl=in, hl=hi, lr=lang_hi|lang_en|lang_zh-CN)"
   ],
   "regions_count": 4,
-  "total_urls": 7,
-  "original_urls": 10,
+  "total_urls": 1,
+  "original_urls": 4,
   "urls": [
-    "https://mojie.app/api/v1/client/subscribe?token=006960c6444a2e16ac778c67083a4d3b",
-    "https://suba.f2vip.net/api/v1/client/subscribe?token=54ed51d52b2f315a6986a967ce27829e",
-    "https://www9.9th-subscription-from-chickenfarmer.top/api/v1/client/subscribe?token=d761cf14344d6ddd20663ef8c971b798",
-    "https://suba.f2vip.net/api/v1/client/subscribe?token=c48c64e3d8f814f61baeb0b69cbefa8d",
-    "https://suba.f2vip.net/api/v1/client/subscribe?token=c4422d4a64b9ef75b2cecc18024e1458",
-    "https://suba.f2vip.net/api/v1/client/subscribe?token=2bf82db8b5a5aad3353b1101a9082198",
-    "https://suba.f2vip.net/api/v1/client/subscribe?token=9cccb9712a8b77fc6fdf842888ff04c6"
+    "https://mojie.app/api/v1/client/subscribe?token=006960c6444a2e16ac778c67083a4d3b"
   ]
 }
