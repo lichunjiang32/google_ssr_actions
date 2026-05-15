@@ -1809,10 +1809,10 @@
   },
   {
     "date": "2026-05-15",
-    "google_added": 80,
+    "google_added": 76,
     "github_added": 2,
     "new_total": 0,
-    "removed_total": 1,
-    "alive_total": 82
+    "removed_total": 4,
+    "alive_total": 78
   }
 ]
