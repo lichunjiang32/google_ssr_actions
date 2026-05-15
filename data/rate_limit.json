@@ -7476,10 +7476,10 @@
     "next_allowed_at": 1778883124.5584
   },
   "https://onlysub.mjurl.com/api/v1/client/subscribe?token=89102b4372f59d05f8c9a1422478f9a1": {
-    "hits": 60,
+    "hits": 61,
     "last_reason": "http 403",
-    "last_at": 1778757333.6127956,
-    "next_allowed_at": 1778843733.6127956
+    "last_at": 1778853839.5150518,
+    "next_allowed_at": 1778940239.5150518
   },
   "https://sync.drtacs.vip/api/v1/client/subscribe?token=5dc5388ad13ef73db334f5db0a3b6c3d": {
     "hits": 60,
@@ -8524,5 +8524,23 @@
     "last_reason": "body-hint",
     "last_at": 1778671937.2664618,
     "next_allowed_at": 1778672837.2664618
+  },
+  "https://suba.f2vip.net/api/v1/client/subscribe?token=2bf82db8b5a5aad3353b1101a9082198": {
+    "hits": 1,
+    "last_reason": "http 403",
+    "last_at": 1778853839.5150518,
+    "next_allowed_at": 1778854739.5150518
+  },
+  "https://suba.f2vip.net/api/v1/client/subscribe?token=9cccb9712a8b77fc6fdf842888ff04c6": {
+    "hits": 1,
+    "last_reason": "http 403",
+    "last_at": 1778853839.5150518,
+    "next_allowed_at": 1778854739.5150518
+  },
+  "https://suba.f2vip.net/api/v1/client/subscribe?token=c48c64e3d8f814f61baeb0b69cbefa8d": {
+    "hits": 1,
+    "last_reason": "http 403",
+    "last_at": 1778853839.5150518,
+    "next_allowed_at": 1778854739.5150518
   }
 }
