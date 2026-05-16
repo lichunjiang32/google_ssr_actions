@@ -1817,10 +1817,10 @@
   },
   {
     "date": "2026-05-16",
-    "google_added": 78,
+    "google_added": 76,
     "github_added": 2,
-    "new_total": 1,
-    "removed_total": 4,
-    "alive_total": 80
+    "new_total": 4,
+    "removed_total": 6,
+    "alive_total": 78
   }
 ]
