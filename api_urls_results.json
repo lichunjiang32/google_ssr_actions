@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-17T10:21:37.362893",
+  "timestamp": "2026-05-17T13:15:28.464925",
   "query": "\"api/v1/client/subscribe?token=\"",
   "search_type": "batch_regions",
   "regions_summary": "批量搜索 4 个地区: 沙特阿拉伯, 土耳其, 以色列, 印度",
@@ -13,7 +13,7 @@
   "total_urls": 2,
   "original_urls": 8,
   "urls": [
-    "https://kudun.xn--g2xx48ccpa940a.com/login/sy/api/v1/client/subscribe?token=566c42759f9c2",
-    "https://mojie.app/api/v1/client/subscribe?token=006960c6444a2e16ac778c67083a4d3b"
+    "https://mojie.app/api/v1/client/subscribe?token=006960c6444a2e16ac778c67083a4d3b",
+    "https://kudun.xn--g2xx48ccpa940a.com/login/sy/api/v1/client/subscribe?token=566c42759f9c2"
   ]
 }
